@@ -1,0 +1,15 @@
+# Terraform Status-Dateien (State)
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+
+# Terraform Cache & Logs
+.terraform/
+.terraform.lock.hcl
+crash.log
+
+# AWS Zugriffsdaten (falls vorhanden)
+*.pem
+*.key
