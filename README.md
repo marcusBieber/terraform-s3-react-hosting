@@ -2,6 +2,8 @@
 
 Dieses Projekt nutzt Terraform, um eine React-App zu bauen und auf AWS S3 als statische Website zu hosten.
 
+Der Build-Prozess findet in Terraform statt.
+
 ## 🚀 Anforderungen
 
 - [Terraform](https://developer.hashicorp.com/terraform/downloads) installiert
